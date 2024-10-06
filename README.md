@@ -10,4 +10,4 @@ Options:
   
   --remove [id{task_id}]
   
-  --list       List all logged work
+  --list
